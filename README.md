@@ -8,7 +8,7 @@
 
 ## Contact & Support
 
-**Email:** amandevaccquestion
+**Email:** amandevaccquestion@gmail.com
 
 For bug reports, feature requests, or any questions, please email the address above or [open an issue](https://github.com/amanguptaiitr/task-tracker/issues/new) on this repository. We aim to respond within 2 business days.
 
